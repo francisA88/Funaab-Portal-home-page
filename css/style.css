@@ -5,6 +5,19 @@ body{
 	height: 100vh;
 	background: rgb(248, 248, 248);
 }
+/*header img{
+  display: flex;
+  justify-content:;
+}*/
+#logo{
+  display: flex;
+  justify-content: center;
+}
+#logo img{
+  width: 90px;
+  height: 70px;
+  /*margin-left: 40px;*/
+}
 #scrollbtn{
 	position: fixed;
 	right: 20px;

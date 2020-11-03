@@ -7,6 +7,15 @@ body{
   min-height: 100vh;
   flex-direction: column;
 }
+#logo{
+  display: flex;
+  justify-content: center;
+}
+#logo img{
+  width: 90px;
+  height: 70px;
+  /*margin-left: 40px;*/
+}
 main{
   flex: 1;
 }
